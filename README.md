@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 😄 Pronouns: he/him
+- 💻 Languages: HTML5 & CSS3, Python, NodeJS, English lol
 <!--
 **thatstrangecoder/thatstrangecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
