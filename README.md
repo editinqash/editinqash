@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Nuxt.
 - 📫 How to reach me: contact@nexabo.co or Raf;#8282 on Discord.
 
-(https://badges.pufler.dev/years/thatstrangecoder?style=for-the-badge&logo=appveyor)
+[![Years Badge](https://badges.pufler.dev/years/thatstrangecoder?style=for-the-badge&logo=appveyor)]
