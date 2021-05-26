@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄  Pronouns: he/him
+- 😄  Pronouns: he/they
 - 💻  Languages: HTML & CSS, Python, NodeJS, Javascript, Vue.js.
 ### Info!
 - 🔭 I’m currently working on MagicControlX; a continuation of the Magic-Control project to control smart lights
