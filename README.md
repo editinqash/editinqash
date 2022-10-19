@@ -1,11 +1,10 @@
 ### Hi there 👋
-- 😄  Pronouns: they/them
+- 😄  Pronouns: he/they
 - 💻  Languages: HTML & CSS, Python, NodeJS, Javascript, Vue.js.
 ### Info!
-- 🔭 I’m currently working on MagicControlX; a continuation of the Magic-Control project to control smart lights
-      and Pheonix, a file host/link shortener.
-- 🌱 I’m currently learning Nuxt.
-- 📫 How to reach me: rafahxshost@gmail.com or heyitsAsh! <3#8282 on Discord.
+- 🔭 I’m currently working on voltSecure, a RoTech security system written in Lua.
+- 🌱 I’m currently learning Nuxt, Lua and trying to improve at NodeJS.
+- 📫 How to reach me: me@ashh.systems or hello@ashsystems.uk or ash.?#8282 on Discord.
 ### GitHub Info
 ![Years Badge](https://badges.pufler.dev/years/thatstrangecoder?style=for-the-badge&logo=github)
 ![Visits Badge](https://badges.pufler.dev/visits/thatstrangecoder/thatstrangecoder?style=for-the-badge&logo=github)
