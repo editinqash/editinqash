@@ -1,8 +1,8 @@
 ### hi flops 😍
 i develop in Roblox LuaU, Python, NodeJS, HTML/CSS/JS/JQuery and i'm learning vue/nuxt!
 ### contact me to escape your flop era
-discord: ashh#3538 - <@529968685385777162>
-email: hello@ashsystems.uk / ash@renocorp.co.uk / me@ashh.systems
+discord: ashh#3538 - <@529968685385777162>\n
+email: hello@ashsystems.uk / ash@renocorp.co.uk / me@ashh.systems\n
 roblox: ReaITayIorSwiftt
 
 
