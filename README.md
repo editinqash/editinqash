@@ -2,7 +2,7 @@
 i develop in Roblox LuaU, Python, NodeJS, HTML/CSS/JS/JQuery and i'm learning vue/nuxt!
 ### contact me to escape your flop era
 discord: ashh#3538 - <@529968685385777162><br>
-email: hello@ashsystems.uk / ash@renocorp.co.uk / me@ashh.systems<br>
+email: hello@ashsystems.uk / ash@renocorp.co.uk<br>
 roblox: ReaITayIorSwiftt
 
 
